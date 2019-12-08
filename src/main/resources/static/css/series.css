@@ -1,0 +1,9 @@
+.series-destacados .card img {
+    height: 200px;
+    object-fit: cover; /*para no deformar la imagen*/
+}
+
+.series-destacados .card  {
+    height: 100%;
+}
+

@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {},
+        "integrity": {
+            "context": "script"
+        },
+        "th:src": {},
+        "th:each": {}
+    }
+}
